@@ -1,0 +1,8 @@
+mainmenu "WebServer Config"
+
+menu "Test"
+config BOOL_ARG
+    bool "test bool"
+    default n
+
+endmenu

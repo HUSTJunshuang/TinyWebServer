@@ -1,0 +1,5 @@
+# hidden files and directories
+.*
+# genereated files by kconfig
+include/config
+include/generated
