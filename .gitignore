@@ -3,3 +3,5 @@
 # genereated files by kconfig
 include/config
 include/generated
+# build results
+build/
